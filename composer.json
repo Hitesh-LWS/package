@@ -3,9 +3,6 @@
     "description": "Classic Installer to install the all dependencies",
     "license": "MIT",
     "autoload": {
-        "classmap": [
-            "database"
-        ],
         "psr-4": {
             "Faveo\\Installer\\": "Faveo/Installer/src/",
             "App\\": "app/",
